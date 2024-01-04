@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1700483647 source:c:\users\andre\documents\scoala\facultate\2.tehniciavansateprogramare\tap\main.cpp
+	"stivaStatica.h"
+	<iostream>
+
+1700483207 c:\users\andre\documents\scoala\facultate\2.tehniciavansateprogramare\tap\stivastatica.h
+
+1700484503 source:c:\users\andre\documents\scoala\facultate\2.tehniciavansateprogramare\tap\stivastatica.cpp
+	"stivaStatica.h"
+	<iostream>
+
+1700484845 source:c:\users\andre\documents\scoala\facultate\2.tehniciavansateprogramare\tap\exceptie.cpp
+	"stivaStatica.h"
+	<exception>
+
+1700484845 source:c:\users\andre\documents\scoala\facultate\2.tehniciavansateprogramare\lab1\tap\exceptie.cpp
+	"stivaStatica.h"
+	<exception>
+
+1700483207 c:\users\andre\documents\scoala\facultate\2.tehniciavansateprogramare\lab1\tap\stivastatica.h
+
+1700483647 source:c:\users\andre\documents\scoala\facultate\2.tehniciavansateprogramare\lab1\tap\main.cpp
+	"stivaStatica.h"
+	<iostream>
+
+1701085375 source:c:\users\andre\documents\scoala\facultate\2.tehniciavansateprogramare\lab1\tap\coadastatic.cpp
+	"coadaStatica.h"
+	<iostream>
+
+1701085375 c:\users\andre\documents\scoala\facultate\2.tehniciavansateprogramare\lab1\tap\coadastatica.h
+
+1701083075 source:c:\users\andre\documents\scoala\facultate\2.tehniciavansateprogramare\lab1\tap\exceptieex2.cpp
+	"coadaStatica.h"
+	<exception>
+
